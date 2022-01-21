@@ -8,7 +8,7 @@
 	"compatibleCoreVersion": "9.238",
 	"url": "https://github.com/grimmash/tors_tomb_of_the_nine_gods",
 	"manifest": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/blob/main/module.json",
-	"download": "DownloadURLhere",
+	"download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v1.0.1.zip",
 	"packs": [
 	{
 		"name": "tor_tong_scenes",
