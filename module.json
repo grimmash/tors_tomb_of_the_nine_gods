@@ -43,7 +43,7 @@
 		"label": "Tor TotNG Journals",
 		"system": "dnd5e",
 		"path": "./packs/tor-tong-journals.db",
-		"entity": "JournalEntry"
+		"entity": "Journal"
 	}
 	]
 }
