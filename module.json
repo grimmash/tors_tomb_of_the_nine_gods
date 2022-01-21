@@ -7,7 +7,7 @@
 	"minimumCoreVersion": "9.238",
 	"compatibleCoreVersion": "9.238",
 	"url": "https://github.com/grimmash/tors_tomb_of_the_nine_gods",
-	"manifest": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/blob/main/module.json",
+	"manifest": "https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/v1.0.1/module.json",
 	"download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v1.0.1.zip",
 	"packs": [
 	{
