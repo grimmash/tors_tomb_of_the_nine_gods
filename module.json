@@ -23,6 +23,27 @@
 		"system": "dnd5e",
 		"path": "./packs/tor-tong-rolltable.db",
 		"entity": "RollTable"
+	},
+	{
+		"name": "tor_tong_actors",
+		"label": "Tor TotNG Actors",
+		"system": "dnd5e",
+		"path": "./packs/tor-tong-actors.db",
+		"entity": "Actor"
+	},
+	{
+		"name": "tor_tong_macros",
+		"label": "Tor TotNG Macros",
+		"system": "dnd5e",
+		"path": "./packs/tor-tong-macros.db",
+		"entity": "Macro"
+	},
+	{
+		"name": "tor_tong_journals",
+		"label": "Tor TotNG Journals",
+		"system": "dnd5e",
+		"path": "./packs/tor-tong-journals.db",
+		"entity": "JournalEntry"
 	}
 	]
 }
