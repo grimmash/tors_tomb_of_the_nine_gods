@@ -4,10 +4,12 @@
 	"description": "High quality maps and tiles for the Tomb of the Nine Gods in Tomb of Annihilation.",
 	"author": "Tor",
 	"version": "1.0.0",
-	"authors": [{
-			"name": "Tor",
-			"name": "Grimmash"
-		}
+	"authors": [
+	{
+		"name": "Tor"},
+	{
+		"name": "Grimmash"
+	}
 	],
 	"minimumCoreVersion": "0.9.0",
 	"compatibleCoreVersion": "0.9.0",
