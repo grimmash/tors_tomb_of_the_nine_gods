@@ -24,8 +24,7 @@ This is a Foundry Module that provides custom maps for the Tomb of the Nine Gods
 - Evaluate other mod integration/dependencies
 - Specific Fixes
   - Fix Zombie door tile level (raise level)
-  - Add icons for room numbers
-  - Fix rotating room window
+
 
 # Overview
 This repo contains a Compendium that has custom maps and tiles for use in Foundry VTT.
