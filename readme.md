@@ -4,13 +4,20 @@ This is a Foundry Module that provides custom maps for the Tomb of the Nine Gods
 
 **[Full Documentaiton on the Wiki](https://github.com/grimmash/tors_tomb_of_the_nine_gods/wiki)**
 
-# Instructions
-1. Navigate to the `Add-on Modules` tab in Foundry
+# Installation Instructions
+
+1. Navigate to `Add-on Modules` in Foundry
 2. At the bottom of the window, use the `Install Module` option
-3. In the popup in the `Manifest URL` field enter: https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/main/module.json
-4. Click 'Install'
-5. Open a game world
-6. Populate the map with monsters, notes, etc as you see fit
+    1. For a Foundry Listing installation:
+       1. Search for Tor's Tomb of the Nine Gods
+       2. Click `Install`
+    2. For a manual installation:
+      1. In the `Manifest URL` field enter: https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/main/module.json
+      2. Click 'Install'
+3. Open a game world
+4. Activate the Module
+5. Import scenes/macros/journals/etc from the `Tor TotNG` compendiums
+5. Populate the map with monsters, notes, etc as you see fit
 
 # To Do:
 - Add journals entries for:
@@ -24,8 +31,6 @@ This is a Foundry Module that provides custom maps for the Tomb of the Nine Gods
 - Evaluate other mod integration/dependencies
 - Specific Fixes
   - Fix Zombie door tile level (raise level)
-
-
 
 # Legal Stuff
 All maps and content were created by Tor and are protected under any copyright relevent in your or his jurisdiction.  Please contact Tor for any questions on use outside this module.
