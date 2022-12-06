@@ -1,49 +1,66 @@
 {
-	"name": "tors-tomb-of-the-nine-gods",
-	"title": "Tor's Tomb of the Nine Gods",
-	"description": "High quality maps and tiles for the Tomb of the Nine Gods in Tomb of Annihilation.",
-	"author": "Grimmash and Tor",
-	"version": "1.1.1",
-	"minimumCoreVersion": "9.238",
-	"compatibleCoreVersion": "9.238",
-	"url": "https://github.com/grimmash/tors_tomb_of_the_nine_gods",
-	"manifest": "https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/main/module.json",
-	"download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v1.1.1.zip",
-	"packs": [
-	{
-		"name": "tor_tong_scenes",
-		"label": "Tor TotNG Scenes",
-		"system": "dnd5e",
-		"path": "./packs/tor-tong-scenes.db",
-		"entity": "Scene"
-	},
-		{
-		"name": "tor_tong_tables",
-		"label": "Tor TotNG Tables",
-		"system": "dnd5e",
-		"path": "./packs/tor-tong-rolltable.db",
-		"entity": "RollTable"
-	},
-	{
-		"name": "tor_tong_actors",
-		"label": "Tor TotNG Actors",
-		"system": "dnd5e",
-		"path": "./packs/tor-tong-actors.db",
-		"entity": "Actor"
-	},
-	{
-		"name": "tor_tong_macros",
-		"label": "Tor TotNG Macros",
-		"system": "dnd5e",
-		"path": "./packs/tor-tong-macros.db",
-		"entity": "Macro"
-	},
-	{
-		"name": "tor_tong_journals",
-		"label": "Tor TotNG Journals",
-		"system": "dnd5e",
-		"path": "./packs/tor-tong-journals.db",
-		"entity": "JournalEntry"
-	}
-	]
+  "title": "Tor's Tomb of the Nine Gods",
+  "description": "High quality maps and tiles for the Tomb of the Nine Gods in Tomb of Annihilation.",
+  "version": "2.0.0",
+  "url": "https://github.com/grimmash/tors_tomb_of_the_nine_gods",
+  "manifest": "https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/main/module.json",
+  "download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v2.0.0zip",
+  "packs": [
+    {
+      "name": "tor_tong_scenes",
+      "label": "Tor TotNG Scenes",
+      "system": "dnd5e",
+      "path": "packs/tor-tong-scenes.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_tong_tables",
+      "label": "Tor TotNG Tables",
+      "system": "dnd5e",
+      "path": "packs/tor-tong-rolltable.db",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_tong_actors",
+      "label": "Tor TotNG Actors",
+      "system": "dnd5e",
+      "path": "packs/tor-tong-actors.db",
+      "type": "Actor",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_tong_macros",
+      "label": "Tor TotNG Macros",
+      "system": "dnd5e",
+      "path": "packs/tor-tong-macros.db",
+      "type": "Macro",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_tong_journals",
+      "label": "Tor TotNG Journals",
+      "system": "dnd5e",
+      "path": "packs/tor-tong-journals.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "id": "tors-tomb-of-the-nine-gods",
+  "authors": [
+    {
+      "name": "Grimmash and Tor",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
 }
