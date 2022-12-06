@@ -1,10 +1,10 @@
 {
   "title": "Tor's Tomb of the Nine Gods",
   "description": "High quality maps and tiles for the Tomb of the Nine Gods in Tomb of Annihilation.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "url": "https://github.com/grimmash/tors_tomb_of_the_nine_gods",
   "manifest": "https://raw.githubusercontent.com/grimmash/tors_tomb_of_the_nine_gods/main/module.json",
-  "download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v2.0.0zip",
+  "download": "https://github.com/grimmash/tors_tomb_of_the_nine_gods/archive/refs/tags/v2.0.1.zip",
   "packs": [
     {
       "name": "tor_tong_scenes",
